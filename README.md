@@ -1,4 +1,4 @@
-# harjoitustyö
+# harjoitustyö raportti
 
 Middleware-kansio sisältää ApiKeyMiddleware.cs tiedoston ja BasicAuthenticationHandler.cs. Näissä viestintäsovellus tarkistuttaa, onko käyttäjän pyyntö asianmukaisesti valtuutettu ja varmistaa, että asiakas on luonut käyttäjätunnuksen. Middleware-rajapinta ymmärtääkseni määrittelee kaksi metodia, jotka käynnistetään, kun sovellus käynnistyy ja sammutetaan. 
 
